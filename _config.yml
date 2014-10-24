@@ -1,5 +1,6 @@
 # Site settings
-title: BestPerf.com
+title: 高性能网站
+sub_title: BestPerf.com 追求最佳性能
 email: admin@bestperf.com
 description: "Everything Web/Mobile Performance"
 baseurl: ""
